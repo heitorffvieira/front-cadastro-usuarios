@@ -8,7 +8,7 @@
 #### - Essas informações são enviadas para o banco de dados da API;
 #### - As informações de cadastro são exibidas na tela, logo após efetuá-lo, abaixo do formulário;
 #### - Caso queira excluir algum usuário, basta clicar no ícone de exluir, ao lado das informações do mesmo;
-##### - Após isso, automaticamente as informações do usuários serão excluídas do banco de dados e, consequentemente, sairá da exibição da tela
+#### - Após isso, automaticamente as informações do usuários serão excluídas do banco de dados e, consequentemente, sairá da exibição da tela
 
 <br/>
 
