@@ -17,7 +17,7 @@
 <img 
     style='padding-right: 10px' width='40px' 
     title='HTML' 
-    alt='HTML5' 
+    alt='React' 
     align='left' 
     src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
 
