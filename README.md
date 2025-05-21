@@ -16,7 +16,7 @@
 
 <img 
     style='padding-right: 10px' width='40px' 
-    title='HTML' 
+    title='React' 
     alt='React' 
     align='left' 
     src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
@@ -27,6 +27,13 @@
     alt='JavaScript' 
     align='left' 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+    style='padding-right: 10px' width='40px' 
+    title='HTML' 
+    alt='HTML5' 
+    align='left' 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img 
     style='padding-right: 10px' width='40px' 
